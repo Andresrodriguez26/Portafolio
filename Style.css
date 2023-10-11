@@ -109,5 +109,12 @@ input, textarea {
     margin-right: 15vh;
 }
 
-
+#neon {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
  
+#neon img {
+    
+}
